@@ -1,3 +1,2 @@
-Student ID: 406415058
-Name: Ingrid 林映婷
 Student ID: 12345678
+Name: Ingrid 林映婷
